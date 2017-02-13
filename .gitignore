@@ -1,0 +1,28 @@
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
+*.iml
+
+## Directory-based project format:
+.idea/
+
+### Maven ###
+target/
+
+### Java ###
+*.class
+classes/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+### Eclipse ###
+
+.settings/
+
+# Eclipse Core
+.project
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
